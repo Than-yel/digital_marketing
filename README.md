@@ -80,7 +80,7 @@ During the analysis process, various outputs were generated to document and comm
 ## Get Started
 
 [![Clone](https://img.shields.io/badge/Clone-Repository-green?style=flat-square&logo=git)](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL.git)
-[![Pull](https://img.shields.io/badge/Pull-From%20Repository-blue?style=flat-square&logo=git)](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL/pull)
+[![Pull](https://img.shields.io/badge/Pull-From%20Repository-yellow?style=flat-square&logo=git)](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL/pull)
 [![Push](https://img.shields.io/badge/Push-To%20Repository-purple?style=flat-square&logo=git)](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL/push)
 [![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL/issues)
 
@@ -88,4 +88,4 @@ During the analysis process, various outputs were generated to document and comm
 
 ## Connect With Me
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
