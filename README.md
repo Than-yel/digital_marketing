@@ -33,6 +33,24 @@ The analysis employs a wide array of SQL functions to extract meaningful insight
 | Query Performance Optimization       | Implementing indexing and query tuning techniques.                                              |
 
 
+## SQL Functions Utilized
+
+The analysis employs a wide array of SQL functions to extract meaningful insights:
+
+| Function                              | Description                                                                                   |
+|---------------------------------------|-----------------------------------------------------------------------------------------------|
+| Data Aggregation                      | Utilizing functions like COUNT, SUM, AVG, MIN, MAX, and GROUP BY for summarizing data.         |
+| Data Ordering                        | Employing HAVING and ORDER BY clauses to sort and filter data based on specific criteria.      |
+| Data Manipulation                     | Using functions like JOIN (Right, Left, Inner), UNION, and DISTINCT for combining and restructuring datasets. |
+| Window Functions                      | Leveraging functions such as LEAD, LAG, ROW_NUMBER, and RANK for analyzing data in a specified sequence. |
+| Subqueries                            | Extracting subsets of data for deeper analysis within the context of larger queries.           |
+| Logical Functions                     | Employing CASE WHEN for data categorization and conditional operations based on specified conditions. |
+| Date and Time Functions               | Utilizing DATE_FORMAT, TIMESTAMPDIFF, and DATEDIFF for manipulating and analyzing temporal data. |
+| Common Table Expressions (CTEs)      | Creating temporary result sets for complex queries, enhancing readability and simplifying complex logic. |
+| Data Formatting and Transformation   | Utilizing functions like CONCAT, SUBSTRING, and REPLACE for formatting and modifying data values. |
+| Dimensional Aggregation              | Aggregating data across multiple dimensions with functions such as GROUP_CONCAT for concatenated string aggregation. |
+| Alias Usage                           | Enhancing query clarity and readability by assigning aliases to tables and columns.            |
+| Query Performance Optimization       | Implementing indexing and query tuning techniques to improve query execution speed and efficiency. |
 
 ## Summary of Analyses
 
