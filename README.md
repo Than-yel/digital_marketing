@@ -1,8 +1,8 @@
-# Digital Marketing Analysis: Clique Bait Food App 📈
+# Digital Marketing Analysis: Clique Bait Food App 📈📱
 
 ## Objective 🎯
 
-This project aims to conduct a comprehensive digital marketing analysis for the Clique Bait food app, utilizing advanced SQL techniques. The objective is to extract actionable insights from user behavior, campaign performance, product interactions, and page engagement data to optimize marketing strategies and drive business growth in the competitive digital landscape.
+This project aims to conduct a comprehensive digital marketing analysis for the Clique Bait food app, utilizing advanced **SQL** techniques. The objective is to extract actionable insights from user behavior, campaign performance, product interactions, and page engagement data to optimize marketing strategies and drive business growth in the competitive digital landscape.
 
 ## Key Findings 📊
 
@@ -21,7 +21,7 @@ These key findings provide actionable insights that can inform strategic decisio
 
 ---
 
-## SQL Functions Utilized
+## SQL Functions Utilized 💻
 
 The analysis employs a diverse array of SQL functions to extract meaningful insights, leveraging advanced techniques and methodologies:
 
@@ -57,7 +57,7 @@ The analysis employs a diverse array of SQL functions to extract meaningful insi
 
 ---
 
-## Project Outputs
+## Deliverables
 
 During the analysis process, various outputs were generated to document and communicate the findings effectively:
 
