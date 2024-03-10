@@ -69,11 +69,11 @@ During the analysis process, various outputs were generated to document and comm
 
 ---
 
-## ER Diagram
+## Entity-Relationship Diagram
 
-![ER-Diagram](https://github.com/madhavyawale7/Web_Analytics/assets/143819712/1b2d41b7-5653-4437-9442-e6c35ac14169)
+![ER-Diagram](https://github.com/virajbhutada/CliqueBait-Digital-Marketing-Analysis-using-SQL/assets/143819712/f676b8c0-a09a-490f-810a-ef22eb19608e)
 
-The ER Diagram provides a visual representation of the database schema used in the analysis, illustrating the relationships between different entities and their attributes.
+The Entity-Relationship Diagram provides a visual representation of the database schema used in the analysis, illustrating the relationships between different entities and their attributes.
 
 ---
 
